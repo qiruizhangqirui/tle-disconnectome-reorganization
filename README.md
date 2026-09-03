@@ -185,9 +185,6 @@ Run scripts from the repository root and preserve the numbered order within each
 
 The scripts resolve paths relative to the repository root. Generated outputs are written under `results/`, which is excluded from version control.
 
-## Data availability
-
-Participant imaging and clinical data are not distributed with this repository. Availability information for eligible deidentified derivatives will be added when the associated public data record is finalized.
 
 ## Citation
 
