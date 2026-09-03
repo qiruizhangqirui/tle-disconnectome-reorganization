@@ -1,0 +1,144 @@
+ROIid;ROIabbr;ROIname
+1;lThalamusProper;Left Thalamus Proper
+2;lCaudate;Left Caudate
+3;lPutamen;Left Putamen
+4;lPallidum;Left Pallidum
+5;lHippocampus;Left Hippocampus
+6;lAmygdala;Left Amygdala
+7;lAccumbensArea;Left Accumbens area
+8;lVentralDC;Left VentralDC
+9;rThalamusProper;Right Thalamus Proper
+10;rCaudate;Right Caudate
+11;rPutamen;Right Putamen
+12;rPallidum;Right Pallidum
+13;rHippocampus;Right Hippocampus
+14;rAmygdala;Right Amygdala
+15;rAccumbensArea;Right Accumbens area
+16;rVentralDC;Right VentralDC
+17;lCbmIIV;Left Cerebellum I IV
+18;lCbmV;Left Cerebellum V
+19;lCbmVI;Left Cerebellum VI
+20;lCbmCrusI;Left Cerebellum CrusI
+21;lCbmCrusII;Left Cerebellum CrusII
+22;lCbmVIIb;Left Cerebellum VIIb
+23;lCbmVIIIa;Left Cerebellum VIIIa
+24;lCbmVIIIb;Left Cerebellum VIIIb
+25;lCbmIX;Left Cerebellum IX
+26;lCbmX;Left Cerebellum X
+27;rCbmIIV;Right Cerebellum I IV
+28;rCbmV;Right Cerebellum V
+29;rCbmVI;Right Cerebellum VI
+30;rCbmCrusI;Right Cerebellum CrusI
+31;rCbmCrusII;Right Cerebellum CrusII
+32;rCbmVIIb;Right Cerebellum VIIb
+33;rCbmVIIIa;Right Cerebellum VIIIa
+34;rCbmVIIIb;Right Cerebellum VIIIb
+35;rCbmIX;Right Cerebellum IX
+36;rCbmX;Right Cerebellum X
+37;bCbmVermisVI;Bilateral Vermis VI
+38;bCbmVermisCrusII;Bilateral Vermis CrusII
+39;bCbmVermisVIIb;Bilateral Vermis VIIb
+40;bCbmVermisVIIIa;Bilateral Vermis VIIIa
+41;bCbmVermisVIIIb;Bilateral Vermis VIIIb
+42;bCbmVermisIX;Bilateral Vermis IX
+43;bCbmVermisX;Bilateral Vermis X
+44;rVis1;Right Vis 1
+45;rVis2;Right Vis 2
+46;rVis3;Right Vis 3
+47;rVis4;Right Vis 4
+48;rVis5;Right Vis 5
+49;rVis6;Right Vis 6
+50;rVis7;Right Vis 7
+51;rVis8;Right Vis 8
+52;rSomMot1;Right SomMot 1
+53;rSomMot2;Right SomMot 2
+54;rSomMot3;Right SomMot 3
+55;rSomMot4;Right SomMot 4
+56;rSomMot5;Right SomMot 5
+57;rSomMot6;Right SomMot 6
+58;rSomMot7;Right SomMot 7
+59;rSomMot8;Right SomMot 8
+60;rDorsAttnPost1;Right DorsAttn Post 1
+61;rDorsAttnPost2;Right DorsAttn Post 2
+62;rDorsAttnPost3;Right DorsAttn Post 3
+63;rDorsAttnPost4;Right DorsAttn Post 4
+64;rDorsAttnPost5;Right DorsAttn Post 5
+65;rDorsAttnPrCv1;Right DorsAttn PrCv 1
+66;rDorsAttnFEF1;Right DorsAttn FEF 1
+67;rSalVentAttnTempOccPar1;Right SalVentAttn TempOccPar 1
+68;rSalVentAttnTempOccPar2;Right SalVentAttn TempOccPar 2
+69;rSalVentAttnFrOperIns1;Right SalVentAttn FrOperIns 1
+70;rSalVentAttnMed1;Right SalVentAttn Med 1
+71;rSalVentAttnMed2;Right SalVentAttn Med 2
+72;rLimbicOFC1;Right Limbic OFC 1
+73;rLimbicTempPole1;Right Limbic TempPole 1
+74;rContPar1;Right Cont Par 1
+75;rContPar2;Right Cont Par 2
+76;rContPFCl1;Right Cont PFCl 1
+77;rContPFCl2;Right Cont PFCl 2
+78;rContPFCl3;Right Cont PFCl 3
+79;rContPFCl4;Right Cont PFCl 4
+80;rContCing1;Right Cont Cing 1
+81;rContPFCmp1;Right Cont PFCmp 1
+82;rContPCun1;Right Cont pCun 1
+83;rDefaultPar1;Right Default Par 1
+84;rDefaultTemp1;Right Default Temp 1
+85;rDefaultTemp2;Right Default Temp 2
+86;rDefaultTemp3;Right Default Temp 3
+87;rDefaultPFCv1;Right Default PFCv 1
+88;rDefaultPFCv2;Right Default PFCv 2
+89;rDefaultPFCdPFCm1;Right Default PFCdPFCm 1
+90;rDefaultPFCdPFCm2;Right Default PFCdPFCm 2
+91;rDefaultPFCdPFCm3;Right Default PFCdPFCm 3
+92;rDefaultPCunPCC1;Right Default pCunPCC 1
+93;rDefaultPCunPCC2;Right Default pCunPCC 2
+94;lVis1;Left Vis 1
+95;lVis2;Left Vis 2
+96;lVis3;Left Vis 3
+97;lVis4;Left Vis 4
+98;lVis5;Left Vis 5
+99;lVis6;Left Vis 6
+100;lVis7;Left Vis 7
+101;lVis8;Left Vis 8
+102;lVis9;Left Vis 9
+103;lSomMot1;Left SomMot 1
+104;lSomMot2;Left SomMot 2
+105;lSomMot3;Left SomMot 3
+106;lSomMot4;Left SomMot 4
+107;lSomMot5;Left SomMot 5
+108;lSomMot6;Left SomMot 6
+109;lDorsAttnPost1;Left DorsAttn Post 1
+110;lDorsAttnPost2;Left DorsAttn Post 2
+111;lDorsAttnPost3;Left DorsAttn Post 3
+112;lDorsAttnPost4;Left DorsAttn Post 4
+113;lDorsAttnPost5;Left DorsAttn Post 5
+114;lDorsAttnPost6;Left DorsAttn Post 6
+115;lDorsAttnPrCv1;Left DorsAttn PrCv 1
+116;lDorsAttnFEF1;Left DorsAttn FEF 1
+117;lSalVentAttnParOper1;Left SalVentAttn ParOper 1
+118;lSalVentAttnFrOperIns1;Left SalVentAttn FrOperIns 1
+119;lSalVentAttnFrOperIns2;Left SalVentAttn FrOperIns 2
+120;lSalVentAttnPFCl1;Left SalVentAttn PFCl 1
+121;lSalVentAttnMed1;Left SalVentAttn Med 1
+122;lSalVentAttnMed2;Left SalVentAttn Med 2
+123;lSalVentAttnMed3;Left SalVentAttn Med 3
+124;lLimbicOFC1;Left Limbic OFC 1
+125;lLimbicTempPole1;Left Limbic TempPole 1
+126;lLimbicTempPole2;Left Limbic TempPole 2
+127;lContPar1;Left Cont Par 1
+128;lContPFCl1;Left Cont PFCl 1
+129;lContPCun1;Left Cont pCun 1
+130;lContCing1;Left Cont Cing 1
+131;lDefaultTemp1;Left Default Temp 1
+132;lDefaultTemp2;Left Default Temp 2
+133;lDefaultPar1;Left Default Par 1
+134;lDefaultPar2;Left Default Par 2
+135;lDefaultPFC1;Left Default PFC 1
+136;lDefaultPFC2;Left Default PFC 2
+137;lDefaultPFC3;Left Default PFC 3
+138;lDefaultPFC4;Left Default PFC 4
+139;lDefaultPFC5;Left Default PFC 5
+140;lDefaultPFC6;Left Default PFC 6
+141;lDefaultPFC7;Left Default PFC 7
+142;lDefaultPCunPCC1;Left Default pCunPCC 1
+143;lDefaultPCunPCC2;Left Default pCunPCC 2
