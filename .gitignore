@@ -12,9 +12,6 @@
 /src/pipeline/Block1_TLE_surgery_reorganization/Step0_Organize_XCPD.py
 /src/pipeline/Block1_TLE_surgery_reorganization/Step1_Extract_Regional_Features.m
 
-# Markdown files other than the repository README
-*.md
-!/README.md
 
 # Python caches and local environments
 __pycache__/
