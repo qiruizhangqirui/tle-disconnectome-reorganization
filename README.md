@@ -1,6 +1,6 @@
 # tle-disconnectome-reorganization
 
-Analysis code for the study *Individualized Structural Disconnectomes Shape Multimodal Brain Reorganization After Temporal Lobe Epilepsy Surgery*.
+Analysis code for the study *Individual structural disconnectomes shape brain reorganization after temporal lobe epilepsy surgery*.
 
 ## Overview
 
@@ -190,7 +190,7 @@ The scripts resolve paths relative to the repository root. Generated outputs are
 
 If you use this code, please cite the associated study:
 
-> Qirui Zhang, Sam S Javidi, Ruoyi Cao, Michael R Sperling, Zhiqiang Zhang, and Joseph I Tracy. *Individualized Structural Disconnectomes Shape Multimodal Brain Reorganization After Temporal Lobe Epilepsy Surgery*. Manuscript in preparation.
+> Qirui Zhang, Sam S Javidi, Ruoyi Cao, Michael R Sperling, Zhiqiang Zhang, and Joseph I Tracy. *Individual structural disconnectomes shape brain reorganization after temporal lobe epilepsy surgery*. Manuscript in preparation.
 
 This section will be updated with the journal citation and DOI when the article is published.
 
